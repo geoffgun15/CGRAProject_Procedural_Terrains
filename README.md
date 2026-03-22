@@ -1,2 +1,2 @@
-# CGRAProject
- Final Project for CGRA, Procedural Terrain Generation
+# CGRAProject for Victoria University of Wellington
+Procedural Terrain Generation
